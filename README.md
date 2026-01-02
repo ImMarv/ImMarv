@@ -2,7 +2,7 @@
 amogus ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 --->
 # 💫 About Me:
-I am a Computer Science student with prior experience in the industry!<br>🌱 I’m currently learning WebDev with React<br>💡Worked in the industry as a Software Engineer working mainly in the backend on API integration with .NET and some Frontend with Angular.<br>🥴 I'm constantly trying new things!
+I am a Computer Science student and Backend Developer with prior experience in the industry!<br>🌱 I’m currently working on a my final year project! <br>💡Worked in the industry as a Software Engineer working mainly in the backend on API integration with .NET and some Frontend with Angular.<br>🥴 I'm constantly trying new things!
 
 
 ## 🌐 Socials:
