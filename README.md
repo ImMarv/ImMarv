@@ -2,7 +2,7 @@
 amogus ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 --->
 # About Me:
-I am a Computer Science student and mainly a Backend Developer. I’m currently working on a my final year project!<br> Worked in the industry as a Software Engineer working mainly in the backend on API integration with .NET and some Frontend with Angular.<br>🥴 I'm constantly trying and learning new things!
+I am a Computer Science student and mainly a Backend Developer. I’m currently working on a my final year project!<br> Worked in the industry as a Software Engineer working mainly in the backend on API integration with .NET and some Frontend with Angular.<br> I'm constantly trying and learning new things!
 
 
 ## 🌐 Socials:
