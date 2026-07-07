@@ -3,6 +3,7 @@ amogus ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ�
 --->
 # About Me:
 I am a Backend Developer especializing in Python and C#. Always working on something and trying new things.
+🇪🇸
 
 
 ## 🌐 Socials:
